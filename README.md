@@ -1,4 +1,4 @@
-Game developer with C# and Unity Engine. :computer: :video_game:
+.NET / C# Developer. :computer:
 
 <!---
 erru-lt/erru-lt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
